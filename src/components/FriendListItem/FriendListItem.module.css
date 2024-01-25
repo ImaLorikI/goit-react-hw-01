@@ -1,0 +1,27 @@
+.item {
+  width: 400px;
+  margin: 0px auto;
+  padding: 12px 0px;
+  background-color: white;
+  width: 75px;
+  border:1px solid black;
+  border-radius: 5px;
+  gap: 10px;
+}
+
+.active {
+  color: green;
+  margin-left: 10px;
+}
+.offline {
+  color: red;
+  margin-left: 10px;
+}
+.avatar {
+  margin-left: 10px;
+  color: black;
+}
+.name {
+  margin-left: 15px;
+  color: black;
+}
